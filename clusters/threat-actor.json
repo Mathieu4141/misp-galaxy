@@ -12059,6 +12059,20 @@
       },
       "uuid": "9ee446fd-b0cd-4662-9cd1-a60b429192db",
       "value": "Camaro Dragon"
+    },
+    {
+      "description": "Researchers at Symantec have observed a new APT threat actor, dubbed Lancefly, targeting government, aviation and telecoms organizations in South and Southeast Asia using a custom backdoor. The backdoor used by the group, called Merdoor, has been developed since 2018. The initial infection vector remains unknown, although there is evidence that the attackers use phishing emails, brute forcing of SSH credentials, and exploitation of public-facing server vulnerabilities to gain access to target systems. The group also uses a newer version of the ZXShell rootkit, a tool used by the APT17 and APT41 threat actors. Lancefly has also been observed using Impacket’s atexec feature to instantly execute a scheduled task on a remote machine via SMB. The Lancefly APT group has also been seen using PlugX and ShadowPad RAT, tools traditionally used by several Chinese-speaking APT groups.",
+      "meta": {
+        "aliases": [],
+        "refs": [
+          "https://www.securonix.com/blog/securonix-threat-labs-monthly-intelligence-insights-june-2023/",
+          "https://ics-cert.kaspersky.com/publications/reports/2023/09/25/apt-and-financial-attacks-on-industrial-organizations-in-h1-2023/",
+          "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/lancefly-merdoor-zxshell-custom-backdoor"
+        ],
+        "country": ""
+      },
+      "uuid": "6383ea3d-a18d-45fd-a708-51fd0bef5e26",
+      "value": "Lancefly"
     }
   ],
   "version": 287
