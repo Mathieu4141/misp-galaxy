@@ -12059,6 +12059,16 @@
       },
       "uuid": "9ee446fd-b0cd-4662-9cd1-a60b429192db",
       "value": "Camaro Dragon"
+    },
+    {
+      "description": "SparklingGoblin, according to ESET researchers who named and discovered the crime group and backdoor, is an offshoot of another APT Winnti Group, first identified in 2013 by Kaspersky. ESET also said in a Tuesday report that the SideWalk backdoor is similar to one used by Winnti called Crosswalk.",
+      "meta": {
+        "refs": [
+          "https://www.welivesecurity.com/2021/08/24/sidewalk-may-be-as-dangerous-as-crosswalk/"
+        ]
+      },
+      "uuid": "11105d1c-cc0c-4e63-8711-1650f9f0dda1",
+      "value": "SparklingGoblin"
     }
   ],
   "version": 287
