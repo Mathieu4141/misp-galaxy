@@ -12092,6 +12092,16 @@
       },
       "uuid": "79d0da59-9400-40f6-b72b-6c6f47354d59",
       "value": "Scarred Manticore"
+    },
+    {
+      "description": "The threat group behind EnemyBot, Keksec, is well-resourced and has the ability to update and add new capabilities to its arsenal of malware on a daily basis (see below for more detail on Keksec)",
+      "meta": {
+        "refs": [
+          "https://www.fortinet.com/blog/threat-research/enemybot-a-look-into-keksecs-latest-ddos-botnet"
+        ]
+      },
+      "uuid": "5a6ca96d-5d4f-4289-8d73-d0da90a0bd10",
+      "value": "Keksec"
     }
   ],
   "version": 288
