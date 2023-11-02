@@ -12122,6 +12122,24 @@
       },
       "uuid": "114a1f64-06da-4943-94f6-7f443bee0ca1",
       "value": "Xiaoqiying"
+    },
+    {
+      "description": "Winter Vivern is a cyberespionage group first revealed by DomainTools in 2021. It is thought to have been active since at least 2020 and it targets governments in Europe and Central Asia. To compromise its targets, the group uses malicious documents, phishing websites, and a custom PowerShell backdoor.",
+      "meta": {
+        "aliases": [
+          "UAC-0114",
+          "TA473"
+        ],
+        "refs": [
+          "https://www.sentinelone.com/labs/winter-vivern-uncovering-a-wave-of-global-espionage/",
+          "https://www.domaintools.com/resources/blog/winter-vivern-a-look-at-re-crafted-government-maldocs",
+          "https://www.welivesecurity.com/en/eset-research/winter-vivern-exploits-zero-day-vulnerability-roundcube-webmail-servers/",
+          "https://www.proofpoint.com/us/blog/threat-insight/exploitation-dish-best-served-cold-winter-vivern-uses-known-zimbra-vulnerability",
+          "https://socprime.com/blog/uac-0114-group-aka-winter-vivern-attack-detection-hackers-launch-malicious-phishing-campaigns-targeting-government-entities-of-ukraine-and-poland/"
+        ]
+      },
+      "uuid": "22729ed7-ec5f-4160-9a8d-ebc767ede41a",
+      "value": "Winter Vivern"
     }
   ],
   "version": 288
