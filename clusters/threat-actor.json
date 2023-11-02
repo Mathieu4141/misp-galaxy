@@ -12140,6 +12140,22 @@
       },
       "uuid": "22729ed7-ec5f-4160-9a8d-ebc767ede41a",
       "value": "Winter Vivern"
+    },
+    {
+      "description": "Earth Longzhi is a subgroup of APT41 targeting organizations based in Taiwan, Thailand, the Philippines, and Fiji, and using “stack rumbling” via Image File Execution Options (IFEO), a new denial-of-service (DoS) technique to disable security software.",
+      "meta": {
+        "aliases": [
+          "SnakeCharmer"
+        ],
+        "refs": [
+          "https://www.picussecurity.com/resource/blog/cyber-threat-intelligence-report-may-2023",
+          "https://www.trendmicro.com/en_us/research/23/e/attack-on-security-titans-earth-longzhi-returns-with-new-tricks.html",
+          "https://ics-cert.kaspersky.com/publications/reports/2023/03/24/apt-attacks-on-industrial-organizations-in-h2-2022/",
+          "https://www.trendmicro.com/en_us/research/22/k/hack-the-real-box-apt41-new-subgroup-earth-longzhi.html"
+        ]
+      },
+      "uuid": "ca9a85ea-04b2-4d60-9779-ec1f90fa9deb",
+      "value": "Earth Longzhi"
     }
   ],
   "version": 288
