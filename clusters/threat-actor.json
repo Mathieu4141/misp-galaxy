@@ -11959,6 +11959,16 @@
       ],
       "uuid": "32eebd31-5e0f-4fb9-b478-26ff4e48aaf4",
       "value": "AtlasCross"
+    },
+    {
+      "description": "The threat group behind EnemyBot, Keksec, is well-resourced and has the ability to update and add new capabilities to its arsenal of malware on a daily basis (see below for more detail on Keksec)",
+      "meta": {
+        "refs": [
+          "https://www.fortinet.com/blog/threat-research/enemybot-a-look-into-keksecs-latest-ddos-botnet"
+        ]
+      },
+      "uuid": "41958a32-4227-4ff6-a31e-a628c97c45a0",
+      "value": "Keksec"
     }
   ],
   "version": 285
