@@ -13125,6 +13125,16 @@
       },
       "uuid": "e284c356-4b77-4f86-a8f2-7793cbe8662b",
       "value": "AppMilad"
+    },
+    {
+      "description": "",
+      "meta": {
+        "refs": [
+          "https://blog.polyswarm.io/unc4841-targeting-government-entities-with-barracuda-esg-0day-cve-2023-2868"
+        ]
+      },
+      "uuid": "8758dac3-b13d-40f8-8c9d-d16bbe0b06c4",
+      "value": "UNC4841"
     }
   ],
   "version": 294
