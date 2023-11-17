@@ -13156,6 +13156,18 @@
       },
       "uuid": "1566509b-64ce-45f0-963e-b5545ba5d3a9",
       "value": "DEV-0928"
+    },
+    {
+      "description": "TEMP_Heretic is a threat actor that has been observed engaging in targeted spear-phishing campaigns. They exploit vulnerabilities in email platforms, such as Zimbra, to exfiltrate emails from government, military, and media organizations. They use multiple outlook.com email addresses and manually craft content for each email before sending it.",
+      "meta": {
+        "country": "CN",
+        "refs": [
+          "https://www.welivesecurity.com/en/eset-research/mass-spreading-campaign-targeting-zimbra-users/",
+          "https://www.volexity.com/blog/2022/02/03/operation-emailthief-active-exploitation-of-zero-day-xss-vulnerability-in-zimbra/"
+        ]
+      },
+      "uuid": "4c1d00f5-536b-4a8f-a5ac-59bd8bd25537",
+      "value": "TEMP_Heretic"
     }
   ],
   "version": 294
