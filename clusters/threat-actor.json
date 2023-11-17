@@ -13222,6 +13222,17 @@
       },
       "uuid": "638ec3b8-93c3-436c-b81b-10a8a44b8845",
       "value": "UAC-0006"
+    },
+    {
+      "description": "NewsPenguin is threat actor that has been targeting organizations in Pakistan. They use a complex payload delivery mechanism and exploit the upcoming Pakistan International Maritime Expo & Conference as a lure to trick their victims. The group has been linked to a phishing campaign that leverages spear-phishing emails and weaponized documents to deliver an advanced espionage tool.",
+      "meta": {
+        "refs": [
+          "https://www.rewterz.com/rewterz-news/rewterz-threat-alert-newspenguin-threat-actors-targeting-pakistani-entities-with-malicious-campaign-active-iocs",
+          "https://blogs.blackberry.com/en/2023/02/newspenguin-a-previously-unknown-threat-actor-targets-pakistan-with-advanced-espionage-tool"
+        ]
+      },
+      "uuid": "9dfa259c-0b20-49a5-bb68-dda91a3289d6",
+      "value": "NewsPenguin"
     }
   ],
   "version": 294
