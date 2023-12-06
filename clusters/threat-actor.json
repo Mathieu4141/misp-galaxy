@@ -13639,6 +13639,16 @@
       },
       "uuid": "5e32baed-f4b5-4149-8540-7515ad8c4dc0",
       "value": "Daixin Team"
+    },
+    {
+      "description": "AeroBlade is a previously unknown threat actor that has been targeting an aerospace organization in the United States. Their objective appears to be conducting commercial and competitive cyber espionage. They employ spear-phishing as a delivery mechanism, using weaponized documents with embedded remote template injection techniques and malicious VBA macro code. The attacks have been ongoing since September 2022, with multiple phases identified in the attack chain. The origin and precise objective of AeroBlade remain unknown.",
+      "meta": {
+        "refs": [
+          "https://blogs.blackberry.com/en/2023/11/aeroblade-on-the-hunt-targeting-us-aerospace-industry"
+        ]
+      },
+      "uuid": "734de8c8-01c9-43ba-89e3-aa24d6f3c1e3",
+      "value": "AeroBlade"
     }
   ],
   "version": 295
