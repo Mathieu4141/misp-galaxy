@@ -9163,10 +9163,16 @@
           "https://en.wikipedia.org/wiki/Maksim_Yakubets",
           "https://www.bbc.com/news/world-us-canada-53195749",
           "http://www.secureworks.com/research/threat-profiles/gold-drake",
-          "https://www.secureworks.com/research/dridex-bugat-v5-botnet-takeover-operation"
+          "https://www.secureworks.com/research/dridex-bugat-v5-botnet-takeover-operation",
+          "https://www.microsoft.com/en-us/security/blog/2022/05/09/ransomware-as-a-service-understanding-the-cybercrime-gig-economy-and-how-to-protect-yourself/",
+          "http://www.microsoft.com/en-us/security/blog/2022/10/27/raspberry-robin-worm-part-of-larger-ecosystem-facilitating-pre-ransomware-activity/"
         ],
         "synonyms": [
-          "GOLD DRAKE"
+          "GOLD DRAKE",
+          "Manatee Tempest",
+          "DEV-0243",
+          "EvilCorp",
+          "UNC2165"
         ]
       },
       "uuid": "c30fbdc8-b66d-4242-a02a-e01946bc86d8",
