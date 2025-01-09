@@ -17634,6 +17634,20 @@
       },
       "uuid": "b81fbcbc-9c48-4944-8f73-3785929d46fe",
       "value": "Natohub"
+    },
+    {
+      "description": "TA4557 is a financially motivated threat actor first identified in late 2023, primarily targeting recruiters through social engineering tactics. They gain initial access via resume lures and have been observed using the more_eggs backdoor, which establishes persistence and gathers intel. The group employs sophisticated evasive measures and distinct attack chains, utilizing benign-looking emails to initiate contact with potential victims. Their campaigns have included multiple delivery approaches, specifically targeting employees involved in the hiring process.",
+      "meta": {
+        "refs": [
+          "https://www.proofpoint.com/us/blog/threat-insight/security-brief-ta4557-targets-recruiters-directly-email",
+          "https://www.proofpoint.com/us/threat-insight/post/fake-jobs-campaigns-delivering-moreeggs-backdoor-fake-job-offers"
+        ],
+        "synonyms": [
+          "FIN6"
+        ]
+      },
+      "uuid": "aec0159a-ce83-4408-a64a-403929c826e3",
+      "value": "TA4557"
     }
   ],
   "version": 322
