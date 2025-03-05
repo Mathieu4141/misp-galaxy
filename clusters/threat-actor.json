@@ -17828,6 +17828,16 @@
       },
       "uuid": "99faf6a8-e9d1-42e5-bec2-a4a40a920896",
       "value": "Angry Likho"
+    },
+    {
+      "description": "Storm-2139 is a cybercrime group that exploited stolen API keys from compromised Azure OpenAI Service accounts to generate harmful content, including non-consensual intimate imagery, using the DALL-E model. The group utilized reverse proxy infrastructure and custom software to bypass guardrails in Microsoft’s GenAI services. Microsoft has filed a lawsuit against four individuals associated with Storm-2139, alleging they modified customer systems and resold access to these capabilities. The group systematically harvested authentication tokens from U.S.-based enterprises and is linked to a broader network of illicit AI tool development and distribution.",
+      "meta": {
+        "refs": [
+          "https://blogs.microsoft.com/on-the-issues/2025/02/27/disrupting-cybercrime-abusing-gen-ai/"
+        ]
+      },
+      "uuid": "758166ee-9f39-4f7c-a22d-ee15801dd14c",
+      "value": "Storm-2139"
     }
   ],
   "version": 322
