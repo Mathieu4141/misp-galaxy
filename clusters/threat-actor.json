@@ -17852,6 +17852,22 @@
       },
       "uuid": "803a4eaf-f011-4a7c-952b-f41142ebe943",
       "value": "Larva-208"
+    },
+    {
+      "description": "Cyber Alliance is a hacktivist group that has demonstrated capabilities in exploiting vulnerabilities, such as CVE-2023-22515 in Confluence, to escalate privileges and access targeted infrastructure. They successfully accessed Trigona's systems, exfiltrating sensitive data and ultimately defacing and deleting the organization's site.",
+      "meta": {
+        "country": "UA",
+        "refs": [
+          "https://unit42.paloaltonetworks.com/unit-42-ransomware-leak-site-data-analysis/",
+          "https://securelist.com/cyber-anarchy-squad-attacks-with-uncommon-trojans/114990/",
+          "https://www.darkowl.com/blog-content/what-are-cves/"
+        ],
+        "synonyms": [
+          "UCA"
+        ]
+      },
+      "uuid": "9ef9c04f-ed4e-445d-93d6-986bdc0009c8",
+      "value": "Ukrainian Cyber Alliance"
     }
   ],
   "version": 322
