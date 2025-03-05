@@ -17868,6 +17868,17 @@
       },
       "uuid": "9ef9c04f-ed4e-445d-93d6-986bdc0009c8",
       "value": "Ukrainian Cyber Alliance"
+    },
+    {
+      "description": "Larva-24005 is a threat actor that breaches servers in Korea to establish a web server and PHP environment for phishing attacks, primarily targeting individuals involved with North Korea and university professors researching the regime. They exploit the BlueKeep vulnerability for initial access and utilize RDPWrap and a custom keylogger post-compromise. Phishing emails are crafted to appear as legitimate communications, often containing malicious URLs or compressed files. The actor has been observed storing phishing pages in the IIS_USER account and XAMPP home folder, although traces of these pages were later deleted.",
+      "meta": {
+        "country": "KP",
+        "refs": [
+          "https://asec.ahnlab.com/en/86535/"
+        ]
+      },
+      "uuid": "4d6b6d46-ef98-41af-ba0c-62298f047ef4",
+      "value": "Larva-24005"
     }
   ],
   "version": 322
