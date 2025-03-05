@@ -17879,6 +17879,18 @@
       },
       "uuid": "4d6b6d46-ef98-41af-ba0c-62298f047ef4",
       "value": "Larva-24005"
+    },
+    {
+      "description": "GreenSpot is an APT group believed to operate from Taiwan, active since at least 2007, primarily targeting government, academic, and military entities in China through phishing campaigns. The group frequently targets 163.com, aiming to steal login credentials using deceptive domains, manipulated TLS certificates, and counterfeit interfaces. Their tactics highlight the sophistication of modern credential theft operations, necessitating detection efforts focused on irregular domain registrations and certificate anomalies.",
+      "meta": {
+        "country": "TW",
+        "refs": [
+          "https://hunt.io/blog/greenspot-apt-targets-163com-fake-downloads-spoofing",
+          "https://www.antiy.net/p/greenspotoperations-grow-for-many-years/"
+        ]
+      },
+      "uuid": "af4d7c31-a331-4d77-9105-4a38fde11398",
+      "value": "GreenSpot"
     }
   ],
   "version": 322
