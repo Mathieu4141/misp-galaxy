@@ -17813,6 +17813,21 @@
       },
       "uuid": "49dc1d03-a3b3-4895-982c-57a4ec6b6bc1",
       "value": "PlushDaemon"
+    },
+    {
+      "description": "Angry Likho is an APT group that has been active since 2023, primarily targeting large organizations and government agencies in Russia and Belarus. Their attacks typically involve spear-phishing emails with malicious attachments, such as RAR archives, and utilize a known payload, the Lumma stealer, for data exfiltration. The group employs a compact infrastructure and has been linked to espionage activities, particularly in sectors like aviation and pharmaceuticals. Their operations have shown a focus on collecting sensitive information, including cryptowallet files and user credentials.",
+      "meta": {
+        "country": "RU",
+        "refs": [
+          "https://securelist.com/angry-likho-apt-attacks-with-lumma-stealer/115663/",
+          "https://www.morphisec.com/blog/sticky-werewolfs-aviation-attacks/"
+        ],
+        "synonyms": [
+          "Sticky Werewolf"
+        ]
+      },
+      "uuid": "99faf6a8-e9d1-42e5-bec2-a4a40a920896",
+      "value": "Angry Likho"
     }
   ],
   "version": 322
