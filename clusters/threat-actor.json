@@ -19560,6 +19560,17 @@
       },
       "uuid": "f37e5920-d780-4568-81dc-ae4e12052697",
       "value": "Storm-1516"
+    },
+    {
+      "description": "GOLD BLADE is a threat actor that has evolved from cyberespionage to a hybrid operation combining data theft with selective ransomware deployment via a custom locker named QWCrypt. The group employs a refined delivery method that includes abusing recruitment platforms to distribute weaponized resumes and utilizes a multi-stage infection chain involving RedLoader malware. Their operations are characterized by cycles of dormancy followed by bursts of activity, during which they modify their TTPs, including the use of a BYOVD chain and LNK files for initial execution. GOLD BLADE's targeted approach focuses primarily on North American organizations, particularly in Canada, and suggests a hack-for-hire model with tailored intrusions.",
+      "meta": {
+        "refs": [
+          "https://news.sophos.com/en-us/2025/12/05/sharpening-the-knife-gold-blades-strategic-evolution/",
+          "https://news.sophos.com/en-us/2025/07/29/gold-blade-remote-dll-sideloading-attack-deploys-redloader/"
+        ]
+      },
+      "uuid": "552e0d87-9580-4d73-b15f-1ac879ae5988",
+      "value": "GOLD BLADE"
     }
   ],
   "version": 336
