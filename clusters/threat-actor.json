@@ -24010,14 +24010,21 @@
       "value": "JACKPOT PANDA"
     },
     {
-      "description": "JADEPUFFER is an agentic threat actor that executed a fully autonomous ransomware operation, leveraging a Large Language Model to automate the entire attack chain from initial access to data destruction. It exploited CVE-2025-3248 against an exposed Langflow instance for initial access, then compromised MinIO using default credentials and manipulated MySQL for privilege escalation. The operation culminated in the encryption of over 1,300 configuration records in Nacos, with the encryption key lost, rendering the data unrecoverable. JADEPUFFER exemplifies a shift towards machine-speed extortion, where traditional security models are outpaced by automated threats.",
+      "description": "JADEPUFFER is an agentic threat actor that executed a fully autonomous ransomware operation, leveraging a Large Language Model to automate the entire attack chain from initial access to data destruction. It exploited CVE-2025-3248 against an exposed Langflow instance for initial access, then compromised MinIO using default credentials and manipulated MySQL for privilege escalation. The operation culminated in the encryption of over 1,300 configuration records in Nacos, with the encryption key lost, rendering the data unrecoverable. JADEPUFFER exemplifies a shift towards machine-speed extortion, where traditional security models are outpaced by automated threats. Microsoft tracks the actor's cloud activity as Storm-3168, observed using compromised Azure service principals (credentials leaked in a public GitHub issue) to enumerate a tenant, delete more than 100 storage accounts along with Key Vaults, Function Apps and App Services in about seven minutes, and then harvest storage account keys.",
       "meta": {
         "refs": [
           "https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html",
           "https://krypt3ia.wordpress.com/2026/07/13/threat-intelligence-report-jadepuffer-agentic-ransomware-and-automated-extortion/",
           "https://nsfocusglobal.com/ai-security-incident-jadepuffer-ransomware-leverages-ai-agent-to-automate-attacks/",
           "https://securereading.com/jadepuffer-ai-ransomware-autonomous-llm-attack/",
-          "https://socfortress.medium.com/jadepuffer-the-dawn-of-agentic-ransomware-operations-003a59848007"
+          "https://socfortress.medium.com/jadepuffer-the-dawn-of-agentic-ransomware-operations-003a59848007",
+          "https://www.sysdig.com/blog/jadepuffer-agentic-ransomware-for-automated-database-extortion",
+          "https://www.sysdig.com/blog/jadepuffer-evolves-the-agentic-threat-actor-deploys-ransomware-built-to-destroy-ai-models",
+          "https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/",
+          "https://bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources"
+        ],
+        "synonyms": [
+          "Storm-3168"
         ]
       },
       "uuid": "3ba33e02-c485-40dd-b9af-c4f9a7c46fd5",
