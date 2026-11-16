@@ -25222,6 +25222,17 @@
       },
       "uuid": "f5d26d94-6c01-41a4-91f9-6cf3f4a44fb4",
       "value": "Storm-3358"
+    },
+    {
+      "description": "Crafty Falcon is an AI-assisted threat actor targeting Indian fintechs, lenders, payment firms and cryptocurrency exchanges. It exploits exposed test environments and shared credentials, then moves money through victims’ payment and disbursement APIs. Its tooling includes ARTEX, PentAGI, Cairn and CyberStrikeAI, and it rotates C2 infrastructure within hours to days.",
+      "meta": {
+        "refs": [
+          "https://cyble.com/blog/crafty-falcon-ai-assisted-financial-threat-actor/",
+          "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html"
+        ]
+      },
+      "uuid": "7e3a5bf7-f720-4f45-a3d5-2ca30e7840df",
+      "value": "CRAFTY FALCON"
     }
   ],
   "version": 359
