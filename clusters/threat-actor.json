@@ -25175,6 +25175,17 @@
       },
       "uuid": "0fea8657-455c-4cb9-8fc2-3ffe68191f89",
       "value": "PixelLeaks"
+    },
+    {
+      "description": "Gorbag is a Russia-aligned threat actor active since at least February 2025 that targets Ukrainian organizations, including law enforcement, justice entities, frontline administrations, defense organizations, and a transportation hub for foreign military aid. It collects credentials, VPN configurations, documents, and .zs2 electronic signature keys in a single pass, including from mapped drives and removable media, before deleting its malware. ESET assesses that Gorbag may act as an initial access broker, passing stolen credentials to other Russia-aligned actors.",
+      "meta": {
+        "country": "RU",
+        "refs": [
+          "https://www.welivesecurity.com/en/eset-research/gorbag-orcs-border-harvesting-intelligence-ukraine/#new_tab"
+        ]
+      },
+      "uuid": "b2301a59-ff1a-46c0-a3f4-9c263d951e76",
+      "value": "Gorbag"
     }
   ],
   "version": 359
