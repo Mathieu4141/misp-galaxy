@@ -25160,6 +25160,21 @@
       },
       "uuid": "75853d71-1111-4f4a-bce2-e34ef8a12eae",
       "value": "SilentAir"
+    },
+    {
+      "description": "PixelLeaks is a ransomware group that has claimed attacks on organizations in India, Indonesia, the USA, the UAE, and Vietnam. Named targets include PlasmaGen Biosciences, Connectwell Industries, PT Fiber Networks Indonesia, and SPI Corp / SPI Energy group. PixelLeaks also posted about Godrej & Boyce Mfg Co Ltd.",
+      "meta": {
+        "refs": [
+          "https://ransomfeed.it/index.php?page=post_details&id_post=38685",
+          "https://ransomfeed.it/index.php?page=post_details&id_post=38658",
+          "https://ransomfeed.it/index.php?page=post_details&id_post=38662",
+          "https://ransomfeed.it/index.php?page=post_details&id_post=38660",
+          "https://ransomfeed.it/index.php?page=post_details&id_post=38665",
+          "https://ransomfeed.it/index.php?page=post_details&id_post=38670"
+        ]
+      },
+      "uuid": "0fea8657-455c-4cb9-8fc2-3ffe68191f89",
+      "value": "PixelLeaks"
     }
   ],
   "version": 359
