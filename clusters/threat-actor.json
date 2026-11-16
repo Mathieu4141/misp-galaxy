@@ -25209,6 +25209,19 @@
       },
       "uuid": "5bd64c0b-1e61-4c46-822e-0c9ba1b44929",
       "value": "SlippyNunchucks"
+    },
+    {
+      "description": "Storm-3358 is a Cambodia-based, financially motivated intrusion cluster that primarily targets financial organizations in Southeast Asia. In October 2026, it began using the ARTEX framework alongside conventional tools to scan internet-facing systems and exploit flaws including anonymous file upload and SSRF. It has deployed the WISP, VShell, and AdaptixC2 RATs for persistence and lateral movement, using utilities such as netcat and curl to download them.",
+      "meta": {
+        "country": "KH",
+        "refs": [
+          "https://blog.talosintelligence.com/artex-and-beyond/",
+          "https://blog.malwaremustdie.org/2026/11/mmd-072-2026-artex-detection-signature.html",
+          "https://www.microsoft.com/en-us/security/blog/2026/11/06/artex-abuse-expands-as-cybercriminals-target-financial-sector/"
+        ]
+      },
+      "uuid": "f5d26d94-6c01-41a4-91f9-6cf3f4a44fb4",
+      "value": "Storm-3358"
     }
   ],
   "version": 359
