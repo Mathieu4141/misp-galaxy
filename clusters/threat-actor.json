@@ -25198,6 +25198,17 @@
       },
       "uuid": "81463de4-f7b3-4600-b7b0-9218b6fae37f",
       "value": "CyberXero"
+    },
+    {
+      "description": "SlippyNunchucks is a China-aligned APT group active since at least September 15, 2023, targeting organizations and Chinese-speaking individuals primarily in South and East Asia, with some victims in Europe. Its cyberespionage operations center on DarkVigil, a modular .NET implant with more than 20 known plugins. The group abuses Chinese applications to deploy DarkVigil, including by hijacking DNS resolution and injecting malicious configuration into Sogou Input Method’s insecure HTTP communications. ESET tracks SlippyNunchucks independently of Mustang Panda, with no known associations between the groups.",
+      "meta": {
+        "country": "CN",
+        "refs": [
+          "https://www.welivesecurity.com/en/eset-research/slippynunchucks-hijacks-sogou-input-methods-brand-promotion-mechanism-to-distribute-malware/"
+        ]
+      },
+      "uuid": "5bd64c0b-1e61-4c46-822e-0c9ba1b44929",
+      "value": "SlippyNunchucks"
     }
   ],
   "version": 359
