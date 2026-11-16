@@ -25248,6 +25248,17 @@
       },
       "uuid": "acb0f96d-bc2f-4670-9a1b-379d6b5d7795",
       "value": "Knaithe"
+    },
+    {
+      "description": "Hitcore claimed responsibility for a breach of Ukraine’s Air Alert app that sent false air-raid alerts to users in Kyiv on November 1. A Russian-language alert warned of a possible Oreshnik missile strike and linked to Hitcore’s Telegram channel. Zelensky described it as a Russian attack in a November 2 interview.",
+      "meta": {
+        "country": "RU",
+        "refs": [
+          "https://therecord.media/ukraine-hackers-russia-alert-system"
+        ]
+      },
+      "uuid": "86ae3047-ca9c-4788-a294-5ab3ac9b6ac5",
+      "value": "Hitcore Corp"
     }
   ],
   "version": 359
