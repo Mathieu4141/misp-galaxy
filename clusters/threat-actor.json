@@ -25148,6 +25148,18 @@
       },
       "uuid": "506f7233-b4df-4963-a2e6-a0dcb85a9072",
       "value": "StingyBasilisk"
+    },
+    {
+      "description": "SilentAir is a state-level threat actor assessed with low confidence to be aligned with China-nexus operations. It primarily targets Taiwan and launches attacks from hijacked mobile operator nodes, mostly over SS7 and sometimes Diameter. By manipulating subscriber location updates, SilentAir redirects incoming calls and SMS messages through compromised nodes for interception and harvests subscriber details. It also sends silent SMS messages, potentially to verify continued interception.",
+      "meta": {
+        "country": "CN",
+        "refs": [
+          "https://commsrisk.com/china-linked-hackers-infiltrate-mobile-networks-to-intercept-calls-and-sms/",
+          "https://www.securityweek.com/silentair-hackers-intercept-calls-sms-from-inside-mobile-networks/"
+        ]
+      },
+      "uuid": "75853d71-1111-4f4a-bce2-e34ef8a12eae",
+      "value": "SilentAir"
     }
   ],
   "version": 359
